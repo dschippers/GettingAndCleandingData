@@ -12,7 +12,4 @@ To code first unzips the zip file mentioned above, extracts the test and train d
 
 This new dataset is found in 'subjectactivitymeans.txt'
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-=======
-# GettingAndCleandingData
-Course Project for the Getting and Cleaning Data course on coursera.org
->>>>>>> fdeac2a3df1d31e52379f19ca27997bf59a92e3f
+
